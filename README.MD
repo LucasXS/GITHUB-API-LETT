@@ -1,7 +1,7 @@
 # Projeto de busca de repositórios GitHub
 O projeto de solicitação no processo seletivo da LETT
 
-## [Clique aqui](https://lucasxs.github.io/XXXX/) para ver o projeto do Github Pages
+## [Clique aqui](https://lucasxs.github.io/GITHUB-API-LETT/) para ver o projeto do Github Pages
   
 ## Considerações
 Durante o desenvolvimento não consegui avançar em alguns pontos.
