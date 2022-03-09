@@ -3,7 +3,7 @@
   //Constante para o search/profile e pegar ela pelo DOM
   const search = document.getElementById("search");
   const profile = document.getElementById("profile");
-  const button = document.getElementById('button');
+  //const button = document.getElementById('button');
 
   // Acesso criados no GitHub OAuth
   const url = "https://api.github.com/users";
@@ -91,15 +91,17 @@
   }
  
   // Ouvir o keyup e retorna pela arrow function //Colocar um evento de escuta  // e = callback
-  search.addEventListener("click", e => {
-    const user = e.target.value;    
-    getUser(user).then(data => {
-      console.log(data);
-      if (data.message !== "Not Found") {
-        showProfile(data.profile);
-        showRepos(data.repos);
-      }
-    });
+  search.addEventListener("keypress", e => {
+    if (e.key === "Enter") {
+      const user = e.target.value;    
+      getUser(user).then(data => {
+        console.log(data);
+        if (data.message !== "Not Found") {
+          showProfile(data.profile);
+          showRepos(data.repos);
+        }
+      });
+    }   
     
   });
 })();
