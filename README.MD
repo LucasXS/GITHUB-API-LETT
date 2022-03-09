@@ -14,3 +14,6 @@ Durante o desenvolvimento não consegui avançar em alguns pontos.
 6. Usei apenas JavaScript Vanilla.
 7. Usei diversos cursos/artigos/sites para ter toda a base do projeto, confesso que não sei muito ainda sobre JavaScipt, preciso comprencher melhor coisas que são basicas como: promisse, fetch, async, as arrow functions entre outras coisas, mas acredito estar no caminho certo.
 8. Pensei em não enviar o projeto, já que não foi bem isso que pediram, mas vale o esforço.
+
+@gabrieldta - https://github.com/gabrieldta
+@deleuterio - https://github.com/deleuterio
