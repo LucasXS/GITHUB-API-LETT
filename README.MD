@@ -2,6 +2,8 @@
 O projeto de solicitação no processo seletivo da LETT
 
 ## [Clique aqui](https://lucasxs.github.io/GITHUB-API-LETT/) para ver o projeto do Github Pages
+
+![enter image description here](http://g.recordit.co/PlUnFOIocP.gif)
   
 ## Considerações
 Durante o desenvolvimento não consegui avançar em alguns pontos.
