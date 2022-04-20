@@ -8,7 +8,7 @@
   // Acesso criados no GitHub OAuth
   const url = "https://api.github.com/users";
   const client_id = "75871fd9aa05ab14287c";
-  const client_secret = "ea4824db208481afb69184fc60735b08952c0b27";
+  const client_secret = "{{FAVOR ME APAGAR DO SETTINGS DO GITHUB}}";
 
   //Quantidade de repositorios e ordem de apresentação
   const count = 50;
